@@ -4,13 +4,13 @@
 
 ---
 
-## 🧠 Project Summary
+##  Project Summary
 
 This project simulates hand gestures using Isaac Sim and Omniverse Replicator to create a diverse and labeled synthetic dataset. A CNN model is trained on this dataset to classify static hand signs. In real-time, a webcam captures hand gestures, which are recognized and translated into spoken words using text-to-speech.
 
 ---
 
-## 📌 System Overview
+##  System Overview
 
 - **Isaac Sim** is used to simulate hand gestures and export labeled synthetic images.
 - A **CNN classifier** is trained on this data using **PyTorch**.
@@ -19,17 +19,17 @@ This project simulates hand gestures using Isaac Sim and Omniverse Replicator to
 
 ---
 
-## ✨ Key Features
+##  Key Features
 
-- ✅ Synthetic Dataset Generation with Isaac Sim
-- ✅ Deep Learning Model for Gesture Classification
-- ✅ Real-Time Webcam-Based Inference
-- ✅ Text and Audio Feedback
-- ✅ Scalable Vocabulary and Modular Pipeline
+-  Synthetic Dataset Generation with Isaac Sim
+-  Deep Learning Model for Gesture Classification
+-  Real-Time Webcam-Based Inference
+-  Text and Audio Feedback
+-  Scalable Vocabulary and Modular Pipeline
 
 ---
 
-## 🧱 Hardware Requirements
+##  Hardware Requirements
 
 - Windows or Ubuntu PC with **NVIDIA RTX GPU**
 - Webcam
@@ -37,7 +37,7 @@ This project simulates hand gestures using Isaac Sim and Omniverse Replicator to
 
 ---
 
-## 🧠 Software Architecture
+##  Software Architecture
 
 | Component       | Technology              |
 |----------------|--------------------------|
@@ -50,7 +50,7 @@ This project simulates hand gestures using Isaac Sim and Omniverse Replicator to
 
 ---
 
-## ⚙️ Pre-requisites
+##  Pre-requisites
 
 ### 1. Isaac Sim Installation
 
