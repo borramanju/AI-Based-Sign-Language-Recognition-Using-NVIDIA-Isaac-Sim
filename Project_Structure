@@ -1,0 +1,16 @@
+SignSpeak/
+├── isaac_sim/
+│   └── generate_synthetic_data.py
+├── data/
+│   └── gestures/
+├── models/
+│   └── sign_model.pth
+├── scripts/
+│   ├── train_model.py
+│   ├── recognize_sign.py
+│   └── app_gui.py
+├── utils/
+│   └── preprocess.py
+├── requirements.txt
+├── README.md
+└── demo_video.mp4
